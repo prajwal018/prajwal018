@@ -1,13 +1,5 @@
-<h1 align="center">Hi 👋, I'm Prajwal</h1>
-<h3 align="center">A passionate self-taught Web developer 👨‍💻 from India. My passion for software lies with dreaming up ideas and making them come true with elegant code. I take great care in the Experience, Architecture, and Code Quality of the things I build. Currently learning Eveything. I am also an open-source enthusiast 💗. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.</h3>
-
-- 🔭 I’m currently working on 
-
-- 🌱 I’m currently learning 
-
-- 🤝 I’m looking for help with 
-
-- 💬 Ask me about **HTML, CSS, Javascript and ReactJS**
+<h1 align="left">Hi 👋, I'm Prajwal Kuchewar</h1>
+<h3 align="left">A passionate self-taught Web developer from India. My passion for software lies with dreaming up ideas and making them come true with elegant code. I take great care in the Experience, Architecture, and Code Quality of the things I build. Currently learning Eveything. I am also an open-source enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.</h3>
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">

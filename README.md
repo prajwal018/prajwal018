@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React, JavaScript and Backend**
 
-- 💬 Check out my Portfoilo ```https://pixel-palais.vercel.app/```
+- 💬 Check out my Portfoilo **https://pixel-palais.vercel.app/**
 
 - 📫 How to reach me **prajwalkuchewar3@gmail.com**
 

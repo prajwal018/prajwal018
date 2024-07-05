@@ -26,3 +26,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prajwal018&show_icons=true&locale=en&layout=compact" alt="prajwal018" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prajwal018&show_icons=true&locale=en" alt="prajwal018" /></p>
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/prajwal018)

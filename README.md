@@ -27,4 +27,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prajwal018&show_icons=true&locale=en" alt="prajwal018" /></p>
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/prajwal018)
+![Leetcode Stats](https://leetcard.jacoblin.cool/prajwal018?ext=heatmap)

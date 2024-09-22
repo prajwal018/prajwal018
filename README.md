@@ -1,27 +1,61 @@
+# 👋 Hey there! I'm Prajwal
 
-<h1 align="center">Hello, I'm Prajwal Kuchewar</h1>
-<h3 align="center">A Passionate Software Developer & Technophile from India.</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+**Full Stack Developer | Java Enthusiast | Fintech Explorer | Problem Solver**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prajwal018&label=Visitors&color=brightgreen&style=flat-square&abbreviated=true" alt="prajwal018" /> </p>
+Welcome to my GitHub space, where I code, create, and collaborate to build innovative software solutions. I’m a passionate software developer, constantly evolving and learning new technologies to tackle real-world challenges. Currently, I’m working on projects that push the boundaries of backend development with Java and microservices, alongside diving into fintech innovations.
 
-- 🌱 I’m currently learning **React, JavaScript and Backend**
+---
 
-- 💬 Check out my Portfoilo **https://pixel-palais.vercel.app/**
+## 💻 Tech Stack & Tools
 
-- 📫 How to reach me **prajwalkuchewar3@gmail.com**
+- **Backend**: Java (Spring Boot), Microservices Architecture, REST APIs
+- **Frontend**: HTML5, CSS3, JavaScript, React.js, Next.js
+- **Databases**: PostgreSQL, MySQL, MongoDB
+- **Cloud & DevOps**: AWS, Docker, Kubernetes
+- **Other Tools**: Git, Jenkins, Postman, JIRA, Swagger
 
-- ⚡ Fun fact **I think I'm the Best!😎**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/prxjwxl018" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prajwal018" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/prajwal018" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prajwal018" height="30" width="40" /></a>
-<a href="https://instagram.com/prxjwxl.018" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prxjwxl.018" height="30" width="40" /></a>
-</p>
+## 🚀 What I'm Working On
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prajwal018&show_icons=true&locale=en&layout=compact" alt="prajwal018" /></p>
+### 1. **Typo** – Dynamic Typing Platform 🖱️
+A typing platform that gamifies skill improvement with a clean, modern UI built with **Next.js**. I’m focusing on integrating language modules and providing granular customization options for users.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prajwal018&show_icons=true&locale=en" alt="prajwal018" /></p>
+### 2. **Microservices Architecture with Spring Boot** ⚙️
+A modular quiz and question service powered by **Spring Boot 3** and **PostgreSQL**, with service discovery via Eureka and communication using Feign clients.
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/lapor?ext=heatmap)](https://leetcard.jacoblin.cool/prajwal018?ext=heatmap)
+### 3. **Fintech Project** 💸
+Exploring new ideas and building a portfolio project tailored to the fintech domain.
+
+---
+
+## 🧠 My Learning Journey
+
+I believe in continuous learning, whether it's mastering new programming languages, exploring cloud architecture, or fine-tuning algorithms. Here are a few topics I’m currently diving deeper into:
+
+- Advanced Spring Boot and Microservices Patterns
+- Distributed Systems and Event-Driven Architecture
+- Frontend Frameworks like **Next.js**
+- Real-Time Data Processing
+
+---
+
+## 🎯 Goals for 2024
+
+- Transition to an SDE role in **fintech** 🏦
+- Enhance my **full-stack** skills and work on impactful projects
+- Contribute to **open-source** and collaborate with other developers globally
+- Build scalable and secure **microservices** architectures
+
+---
+
+## 🌱 Let’s Connect!
+
+- **LinkedIn**: [Connect with me](https://linkedin.com/in/prajwal018)
+- **Email**: careers.prajwalkuchewar@gmail.com
+
+Feel free to explore my repositories and drop a star if you find something interesting. Let’s build something amazing together!
+
+---
+
+✌️ **Code | Create | Collaborate**

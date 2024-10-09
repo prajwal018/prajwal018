@@ -24,9 +24,6 @@ A typing platform that gamifies skill improvement with a clean, modern UI built 
 ### 2. **Microservices Architecture with Spring Boot** ⚙️
 A modular quiz and question service powered by **Spring Boot 3** and **PostgreSQL**, with service discovery via Eureka and communication using Feign clients.
 
-### 3. **Fintech Project** 💸
-Exploring new ideas and building a portfolio project tailored to the fintech domain.
-
 ---
 
 ## 🧠 My Learning Journey
@@ -37,15 +34,6 @@ I believe in continuous learning, whether it's mastering new programming languag
 - Distributed Systems and Event-Driven Architecture
 - Frontend Frameworks like **Next.js**
 - Real-Time Data Processing
-
----
-
-## 🎯 Goals for 2024
-
-- Transition to an SDE role in **fintech** 🏦
-- Enhance my **full-stack** skills and work on impactful projects
-- Contribute to **open-source** and collaborate with other developers globally
-- Build scalable and secure **microservices** architectures
 
 ---
 

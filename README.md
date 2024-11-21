@@ -7,6 +7,7 @@ I am a fourth-year computer engineering student at Pune University, passionate a
 
 - 🤖 Exploring Microservices with [aws](https://aws.amazon.com/microservices/)
 - 💻 Building Spring Boot applications with PostgreSQL
+  
 Check out my [coding portfolio!](https://pixel-palais.vercel.app/)
 
 ## 🎓 About Me
